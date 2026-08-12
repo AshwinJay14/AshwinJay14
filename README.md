@@ -1,6 +1,6 @@
 # Hi, I'm Ashwin Jayarahal 👋
 
-### Computer Science Undergraduate · Web Developer
+### Computer Science Undergraduate 
 
 I build responsive, production-focused web experiences with **Next.js**, **React**, and **TypeScript**. I enjoy turning real business requirements into clean, accessible websites with maintainable code, strong SEO foundations, and reliable deployment workflows.
 
