@@ -1,47 +1,124 @@
+<div align="center">
+
 # Hi, I'm Ashwin Jayarahal 👋
 
-### Computer Science Undergraduate 
+### Computer Science Undergraduate · Full-Stack Developer · Team Lead
 
-I build full-stack applications and production-focused web experiences with **Java**, **Spring Boot**, **Next.js**, and **TypeScript**. I enjoy turning real requirements into reliable software with maintainable code, thoughtful architecture, and automated quality checks.
+I build reliable software for real organisations—from mobile and web products to secure APIs and data-driven systems.
 
-## Featured projects
+[![GitHub](https://img.shields.io/badge/GitHub-AshwinJay14-181717?style=for-the-badge&logo=github)](https://github.com/AshwinJay14)
+[![Revera Ceylon](https://img.shields.io/badge/Live-Revera_Ceylon_Journeys-0F766E?style=for-the-badge&logo=vercel&logoColor=white)](https://reveraceylon.com/)
+[![RL Associates](https://img.shields.io/badge/Live-RL_Associates-1E3A8A?style=for-the-badge&logo=vercel&logoColor=white)](https://rlassociates.lk/)
 
-### [Landslide Risk Monitoring System](https://github.com/AshwinJay14/landslide-risk-monitoring-system)
+</div>
 
-A full-stack environmental monitoring platform that processes sensor readings, classifies landslide risk, manages monitoring stations, and records actionable alerts through a responsive dashboard and IoT-ready API.
+---
 
-**Built with:** Java · Spring Boot · Spring Data JPA · Thymeleaf · MySQL · Docker
+## 🚀 What I'm working on
 
-### [Revera Ceylon Journeys](https://github.com/AshwinJay14/revera-ceylon-journeys)
+### 🌱 [Sarvodaya Connect](https://github.com/sarvodaya-connect/sarvodaya-connect) — Team Lead
 
-A multilingual travel platform for a Sri Lankan tourism company, featuring curated tours and destinations, responsive navigation, SEO metadata, and a statically generated production build.
+A digital village society management and information platform developed for Sarvodaya. I lead the university project team and contribute across the product's architecture and delivery.
 
-**Built with:** Next.js · React · TypeScript · CSS  
-**Live website:** [reveraceylon.com](https://reveraceylon.com/)
+- Flutter mobile application for society officers
+- Next.js administration dashboard
+- NestJS backend API with shared TypeScript contracts
+- PostgreSQL, Prisma and Docker infrastructure
+- Authentication and multilingual onboarding flows
+- Jira-based planning, pull-request reviews and automated testing
 
-### [RL Associates Website](https://github.com/AshwinJay14/rl-associates-website)
+### 🥋 [GitDojo](https://github.com/gitdojolearn/GitDojo) — Open-source contributor
 
-A professional services website for a Sri Lankan audit and advisory firm, with seven statically generated routes, structured business data, accessible content, and automated quality checks.
+An interactive environment for learning Git through real commands, browser-based repositories and live visualisations. My contributions include advanced recovery challenges, security headers, API rate limiting and a server-graded Git skills capstone.
 
-**Built with:** Next.js · React · TypeScript · CSS · JSON-LD  
-**Live website:** [rlassociates.lk](https://rlassociates.lk/)
+---
 
-## Technical focus
+## 🧩 Selected projects
 
-- Backend development with Java, Spring Boot, Spring Data JPA, and REST APIs
-- Frontend development with React, Next.js, TypeScript, HTML, and CSS
-- Relational data modelling with MySQL
-- Responsive interfaces and reusable component architecture
-- Technical SEO, accessibility, and structured metadata
-- Git, GitHub, Docker, automated testing, and CI workflows
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/AshwinJay14/landslide-risk-monitoring-system">Landslide Risk Monitoring System</a></h3>
+<p>A full-stack environmental monitoring platform that evaluates sensor readings, classifies landslide risk and generates operational alerts.</p>
+<p><strong>Java · Spring Boot · JPA · Thymeleaf · MySQL · Docker</strong></p>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/AshwinJay14/revera-ceylon-journeys">Revera Ceylon Journeys</a></h3>
+<p>A multilingual, production-ready travel platform with curated tours, responsive navigation, SEO metadata and a statically generated deployment.</p>
+<p><strong>Next.js · React · TypeScript · CSS</strong></p>
+<p><a href="https://reveraceylon.com/">Visit live site →</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/AshwinJay14/rl-associates-website">RL Associates</a></h3>
+<p>A professional website for a Sri Lankan audit and advisory firm, featuring accessible content, structured business data and automated quality checks.</p>
+<p><strong>Next.js · React · TypeScript · JSON-LD</strong></p>
+<p><a href="https://rlassociates.lk/">Visit live site →</a></p>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/AshwinJay14/products-api">Products API</a></h3>
+<p>A Spring Boot API project focused on clean backend structure, RESTful endpoints and practical Java development.</p>
+<p><strong>Java · Spring Boot · Maven</strong></p>
+</td>
+</tr>
+</table>
 
-## Currently
+---
 
-- Studying Computer Science
-- Building practical software for real organisations
-- Improving my software engineering and full-stack development skills
+## 🛠️ Technology
 
-## Connect
+<div align="center">
 
-- GitHub: [@AshwinJay14](https://github.com/AshwinJay14)
-- Live work: [Revera Ceylon Journeys](https://reveraceylon.com/) · [RL Associates](https://rlassociates.lk/)
+### Languages & frameworks
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+### Data, tooling & quality
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+
+</div>
+
+---
+
+## 🤝 How I work
+
+- Lead with clear requirements, practical architecture and shared ownership
+- Plan delivery through Jira, focused branches and reviewable pull requests
+- Test APIs and critical workflows before they become integration problems
+- Build with security, accessibility and maintainability in mind
+- Document setup and decisions so the whole team can move faster
+
+---
+
+## 📊 GitHub activity
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AshwinJay14&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Ashwin's GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshwinJay14&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Ashwin's most used languages" />
+
+</div>
+
+---
+
+<div align="center">
+
+### Building useful software, learning continuously, and helping teams ship with confidence.
+
+</div>
