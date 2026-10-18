@@ -1,10 +1,10 @@
 <div align="center">
 
-# Hi, I'm Ashwin Jayarahal 👋
+<img src="./assets/profile-banner.svg" width="100%" alt="Ashwin Jayarahal — Full-Stack Developer and Team Lead" />
 
-### Computer Science Undergraduate · Full-Stack Developer · Team Lead
+### Turning ideas into reliable products—and helping teams deliver them well.
 
-I build reliable software for real organisations—from mobile and web products to secure APIs and data-driven systems.
+I build across mobile, web and backend systems, with an interest in thoughtful architecture, strong collaboration and software that solves real problems.
 
 [![GitHub](https://img.shields.io/badge/GitHub-AshwinJay14-181717?style=for-the-badge&logo=github)](https://github.com/AshwinJay14)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ashwin_Jayarahal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashwin-jayarahal-296511329/)
@@ -15,11 +15,24 @@ I build reliable software for real organisations—from mobile and web products 
 
 ---
 
-## 🚀 What I'm working on
+## Engineering snapshot
 
-### 🌱 [Sarvodaya Connect](https://github.com/sarvodaya-connect/sarvodaya-connect) — Team Lead
+| | |
+|---|---|
+| **Leading** | Sarvodaya Connect—a cross-platform digital society management system |
+| **Contributing** | Practical Git education and platform security at GitDojo |
+| **Shipping** | Production websites and full-stack applications for real organisations |
+| **Learning** | Distributed product architecture, secure APIs and dependable delivery workflows |
 
-A digital village society management and information platform developed for Sarvodaya. I lead the university project team and contribute across the product's architecture and delivery.
+---
+
+## Current focus
+
+### 01 / [Sarvodaya Connect](https://github.com/sarvodaya-connect/sarvodaya-connect) · Team Lead
+
+> My most important current project: a digital village society management and information platform developed for Sarvodaya.
+
+I lead the university project team and contribute across the product's architecture and delivery:
 
 - Flutter mobile application for society officers
 - Next.js administration dashboard
@@ -28,13 +41,13 @@ A digital village society management and information platform developed for Sarv
 - Authentication and multilingual onboarding flows
 - Jira-based planning, pull-request reviews and automated testing
 
-### 🥋 [GitDojo](https://github.com/gitdojolearn/GitDojo) — Open-source contributor
+### 02 / [GitDojo](https://github.com/gitdojolearn/GitDojo) · Open-source contributor
 
 An interactive environment for learning Git through real commands, browser-based repositories and live visualisations. My contributions include advanced recovery challenges, security headers, API rate limiting and a server-graded Git skills capstone.
 
 ---
 
-## 🧩 Selected projects
+## Selected work
 
 <table>
 <tr>
@@ -67,7 +80,7 @@ An interactive environment for learning Git through real commands, browser-based
 
 ---
 
-## 🛠️ Technology
+## Technical toolkit
 
 <div align="center">
 
@@ -97,7 +110,7 @@ An interactive environment for learning Git through real commands, browser-based
 
 ---
 
-## 🤝 How I work
+## How I work
 
 - Lead with clear requirements, practical architecture and shared ownership
 - Plan delivery through Jira, focused branches and reviewable pull requests
@@ -107,7 +120,7 @@ An interactive environment for learning Git through real commands, browser-based
 
 ---
 
-## 📊 GitHub activity
+## GitHub activity
 
 <div align="center">
 
@@ -120,6 +133,8 @@ An interactive environment for learning Git through real commands, browser-based
 
 <div align="center">
 
-### Building useful software, learning continuously, and helping teams ship with confidence.
+### Let’s build software that earns its place in the real world.
+
+[GitHub](https://github.com/AshwinJay14) · [LinkedIn](https://www.linkedin.com/in/ashwin-jayarahal-296511329/) · [Revera Ceylon Journeys](https://reveraceylon.com/) · [RL Associates](https://rlassociates.lk/)
 
 </div>
