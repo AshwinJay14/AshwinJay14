@@ -30,7 +30,6 @@ I build across mobile, web and backend systems, with an interest in thoughtful a
 
 ### 01 / [Sarvodaya Connect](https://github.com/sarvodaya-connect/sarvodaya-connect) · Team Lead
 
-> My most important current project: a digital village society management and information platform developed for Sarvodaya.
 
 I lead the university project team and contribute across the product's architecture and delivery:
 
