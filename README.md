@@ -7,6 +7,7 @@
 I build reliable software for real organisations—from mobile and web products to secure APIs and data-driven systems.
 
 [![GitHub](https://img.shields.io/badge/GitHub-AshwinJay14-181717?style=for-the-badge&logo=github)](https://github.com/AshwinJay14)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ashwin_Jayarahal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashwin-jayarahal-296511329/)
 [![Revera Ceylon](https://img.shields.io/badge/Live-Revera_Ceylon_Journeys-0F766E?style=for-the-badge&logo=vercel&logoColor=white)](https://reveraceylon.com/)
 [![RL Associates](https://img.shields.io/badge/Live-RL_Associates-1E3A8A?style=for-the-badge&logo=vercel&logoColor=white)](https://rlassociates.lk/)
 
