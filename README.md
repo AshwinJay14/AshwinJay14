@@ -20,7 +20,7 @@ I build across mobile, web and backend systems, with an interest in thoughtful a
 | | |
 |---|---|
 | **Leading** | Sarvodaya Connect—a cross-platform digital society management system |
-| **Contributing** | Practical Git education and platform security at GitDojo |
+| **Collaborating** | Building practical Git education and platform security as a GitDojo organisation member |
 | **Shipping** | Production websites and full-stack applications for real organisations |
 | **Learning** | Distributed product architecture, secure APIs and dependable delivery workflows |
 
@@ -40,9 +40,9 @@ I lead the university project team and contribute across the product's architect
 - Authentication and multilingual onboarding flows
 - Jira-based planning, pull-request reviews and automated testing
 
-### 02 / [GitDojo](https://github.com/gitdojolearn/GitDojo) · Open-source contributor
+### 02 / [GitDojo](https://github.com/gitdojolearn/GitDojo) · Organisation member
 
-An interactive environment for learning Git through real commands, browser-based repositories and live visualisations. My contributions include advanced recovery challenges, security headers, API rate limiting and a server-graded Git skills capstone.
+As a member of the GitDojo organisation, I help build an interactive environment for learning Git through real commands, browser-based repositories and live visualisations. My work includes advanced recovery challenges, security headers, API rate limiting and a server-graded Git skills capstone.
 
 ---
 
