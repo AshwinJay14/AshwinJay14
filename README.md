@@ -6,10 +6,11 @@
 
 I build across mobile, web and backend systems, with an interest in thoughtful architecture, strong collaboration and software that solves real problems.
 
-[![GitHub](https://img.shields.io/badge/GitHub-AshwinJay14-181717?style=for-the-badge&logo=github)](https://github.com/AshwinJay14)
+[![GitHub](https://img.shields.io/badge/GitHub-AshwinJay14-1E3A8A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AshwinJay14)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ashwin_Jayarahal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashwin-jayarahal-296511329/)
-[![Revera Ceylon](https://img.shields.io/badge/Live-Revera_Ceylon_Journeys-0F766E?style=for-the-badge&logo=vercel&logoColor=white)](https://reveraceylon.com/)
+[![Revera Ceylon](https://img.shields.io/badge/Live-Revera_Ceylon_Journeys-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://reveraceylon.com/)
 [![RL Associates](https://img.shields.io/badge/Live-RL_Associates-1E3A8A?style=for-the-badge&logo=vercel&logoColor=white)](https://rlassociates.lk/)
+![Profile views](https://komarev.com/ghpvc/?username=AshwinJay14&label=PROFILE+VIEWS&color=2563EB&style=for-the-badge)
 
 </div>
 
@@ -17,19 +18,18 @@ I build across mobile, web and backend systems, with an interest in thoughtful a
 
 ## Engineering snapshot
 
-| | |
-|---|---|
-| **Leading** | Sarvodaya Connect—a cross-platform digital society management system |
+|                   |                                                                                         |
+| ----------------- | --------------------------------------------------------------------------------------- |
+| **Leading**       | Sarvodaya Connect—a cross-platform digital society management system                    |
 | **Collaborating** | Building practical Git education and platform security as a GitDojo organisation member |
-| **Shipping** | Production websites and full-stack applications for real organisations |
-| **Learning** | Distributed product architecture, secure APIs and dependable delivery workflows |
+| **Shipping**      | Production websites and full-stack applications for real organisations                  |
+| **Learning**      | Distributed product architecture, secure APIs and dependable delivery workflows         |
 
 ---
 
 ## Current focus
 
 ### 01 / [Sarvodaya Connect](https://github.com/sarvodaya-connect/sarvodaya-connect) · Team Lead
-
 
 I lead the university project team and contribute across the product's architecture and delivery:
 
@@ -85,25 +85,25 @@ As a member of the GitDojo organisation, I help build an interactive environment
 
 ### Languages & frameworks
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Java](https://img.shields.io/badge/Java-2563EB?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-1D4ED8?style=for-the-badge&logo=springboot&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-1E293B?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-2563EB?style=for-the-badge&logo=react&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-1E40AF?style=for-the-badge&logo=nestjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-0284C7?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-3B82F6?style=for-the-badge&logo=dart&logoColor=white)
 
 ### Data, tooling & quality
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1E3A8A?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-2563EB?style=for-the-badge&logo=mysql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-1E40AF?style=for-the-badge&logo=prisma&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2563EB?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-1D4ED8?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-3B82F6?style=for-the-badge&logo=vitest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-1D4ED8?style=for-the-badge&logo=playwright&logoColor=white)
 
 </div>
 
@@ -125,6 +125,22 @@ As a member of the GitDojo organisation, I help build an interactive environment
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=AshwinJay14&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Ashwin's GitHub stats" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshwinJay14&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Ashwin's most used languages" />
+<br />
+<img src="https://streak-stats.demolab.com?user=AshwinJay14&theme=tokyonight&hide_border=true&background=0D1117&ring=60A5FA&fire=38BDF8&currStreakLabel=93C5FD&currStreakNum=FFFFFF&sideLabels=93C5FD&sideNums=FFFFFF&dates=64748B" alt="Ashwin's GitHub contribution streak" />
+
+</div>
+
+---
+
+## Contribution activity
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AshwinJay14/AshwinJay14/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AshwinJay14/AshwinJay14/output/github-contribution-grid-snake.svg" />
+  <img alt="Animated contribution graph" src="https://raw.githubusercontent.com/AshwinJay14/AshwinJay14/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 

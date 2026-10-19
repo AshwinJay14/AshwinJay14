@@ -4,15 +4,15 @@
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
       <stop stop-color="#07111F"/>
-      <stop offset="0.55" stop-color="#0B1C2C"/>
-      <stop offset="1" stop-color="#102A3A"/>
+      <stop offset="0.55" stop-color="#0B1730"/>
+      <stop offset="1" stop-color="#12254B"/>
     </linearGradient>
     <linearGradient id="accent" x1="712" y1="71" x2="1115" y2="251" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#2DD4BF"/>
+      <stop stop-color="#60A5FA"/>
       <stop offset="1" stop-color="#38BDF8"/>
     </linearGradient>
     <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
-      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#5EEAD4" stroke-opacity="0.055" stroke-width="1"/>
+      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#60A5FA" stroke-opacity="0.055" stroke-width="1"/>
     </pattern>
     <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
       <feGaussianBlur stdDeviation="5" result="blur"/>
@@ -22,44 +22,44 @@
 
   <rect width="1200" height="320" rx="24" fill="url(#background)"/>
   <rect width="1200" height="320" rx="24" fill="url(#grid)"/>
-  <path d="M0 271C166 230 261 315 432 272C627 223 744 249 898 280C1033 307 1125 268 1200 242V320H0V271Z" fill="#0F766E" fill-opacity="0.12"/>
+  <path d="M0 271C166 230 261 315 432 272C627 223 744 249 898 280C1033 307 1125 268 1200 242V320H0V271Z" fill="#2563EB" fill-opacity="0.12"/>
 
   <g opacity="0.6">
-    <circle cx="54" cy="50" r="4" fill="#2DD4BF"/>
-    <path d="M54 50H145" stroke="#2DD4BF" stroke-opacity="0.35"/>
+    <circle cx="54" cy="50" r="4" fill="#60A5FA"/>
+    <path d="M54 50H145" stroke="#60A5FA" stroke-opacity="0.35"/>
     <circle cx="1147" cy="268" r="4" fill="#38BDF8"/>
     <path d="M1056 268H1147" stroke="#38BDF8" stroke-opacity="0.35"/>
   </g>
 
   <g font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif">
-    <text x="64" y="81" fill="#5EEAD4" font-size="16" font-weight="700" letter-spacing="3">ENGINEERING WITH PURPOSE</text>
+    <text x="64" y="81" fill="#93C5FD" font-size="16" font-weight="700" letter-spacing="3">ENGINEERING WITH PURPOSE</text>
     <text x="60" y="143" fill="#F8FAFC" font-size="52" font-weight="800" letter-spacing="-1.5">ASHWIN JAYARAHAL</text>
     <text x="64" y="183" fill="#CBD5E1" font-size="20" font-weight="500">Full-Stack Developer  ·  Computer Science Undergraduate  ·  Team Lead</text>
-    <rect x="64" y="216" width="398" height="40" rx="20" fill="#2DD4BF" fill-opacity="0.1" stroke="#2DD4BF" stroke-opacity="0.35"/>
-    <text x="88" y="242" fill="#CCFBF1" font-size="15" font-weight="600">LEAD  •  BUILD  •  TEST  •  SHIP</text>
+    <rect x="64" y="216" width="398" height="40" rx="20" fill="#60A5FA" fill-opacity="0.1" stroke="#60A5FA" stroke-opacity="0.35"/>
+    <text x="88" y="242" fill="#DBEAFE" font-size="15" font-weight="600">LEAD  •  BUILD  •  TEST  •  SHIP</text>
   </g>
 
   <g font-family="Inter, ui-sans-serif, system-ui, sans-serif">
     <path d="M783 124H850M946 124H1013" stroke="url(#accent)" stroke-width="2" stroke-dasharray="6 6"/>
-    <path d="M816 124L806 118V130L816 124ZM979 124L969 118V130L979 124Z" fill="#5EEAD4"/>
+    <path d="M816 124L806 118V130L816 124ZM979 124L969 118V130L979 124Z" fill="#93C5FD"/>
 
     <g transform="translate(680 80)">
-      <rect width="104" height="96" rx="18" fill="#0F2535" stroke="#2DD4BF" stroke-width="2"/>
-      <rect x="34" y="20" width="36" height="56" rx="7" stroke="#99F6E4" stroke-width="2"/>
-      <line x1="44" y1="27" x2="60" y2="27" stroke="#99F6E4" stroke-width="2" stroke-linecap="round"/>
-      <circle cx="52" cy="69" r="2" fill="#99F6E4"/>
-      <text x="52" y="118" fill="#99F6E4" font-size="13" text-anchor="middle" font-weight="700">MOBILE</text>
+      <rect width="104" height="96" rx="18" fill="#0F1F3C" stroke="#60A5FA" stroke-width="2"/>
+      <rect x="34" y="20" width="36" height="56" rx="7" stroke="#BFDBFE" stroke-width="2"/>
+      <line x1="44" y1="27" x2="60" y2="27" stroke="#BFDBFE" stroke-width="2" stroke-linecap="round"/>
+      <circle cx="52" cy="69" r="2" fill="#BFDBFE"/>
+      <text x="52" y="118" fill="#BFDBFE" font-size="13" text-anchor="middle" font-weight="700">MOBILE</text>
     </g>
 
     <g transform="translate(850 80)" filter="url(#glow)">
-      <rect width="96" height="96" rx="48" fill="#0D2D38" stroke="#5EEAD4" stroke-width="2"/>
-      <path d="M30 39L48 28L66 39V59L48 70L30 59V39Z" stroke="#CCFBF1" stroke-width="2"/>
-      <circle cx="48" cy="49" r="7" fill="#2DD4BF"/>
-      <text x="48" y="118" fill="#CCFBF1" font-size="13" text-anchor="middle" font-weight="700">API</text>
+      <rect width="96" height="96" rx="48" fill="#10254A" stroke="#93C5FD" stroke-width="2"/>
+      <path d="M30 39L48 28L66 39V59L48 70L30 59V39Z" stroke="#DBEAFE" stroke-width="2"/>
+      <circle cx="48" cy="49" r="7" fill="#60A5FA"/>
+      <text x="48" y="118" fill="#DBEAFE" font-size="13" text-anchor="middle" font-weight="700">API</text>
     </g>
 
     <g transform="translate(1013 80)">
-      <rect width="126" height="96" rx="18" fill="#0F2535" stroke="#38BDF8" stroke-width="2"/>
+      <rect width="126" height="96" rx="18" fill="#0F1F3C" stroke="#38BDF8" stroke-width="2"/>
       <rect x="22" y="23" width="82" height="51" rx="5" stroke="#BAE6FD" stroke-width="2"/>
       <line x1="23" y1="34" x2="103" y2="34" stroke="#BAE6FD" stroke-width="2"/>
       <circle cx="30" cy="29" r="2" fill="#38BDF8"/>
